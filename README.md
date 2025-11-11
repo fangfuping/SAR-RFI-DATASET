@@ -1,7 +1,8 @@
 1. DATASET
 Some RFI-pooluted dataset is shown as follows:
-通过网盘分享的文件：Data.rar
-链接: https://pan.baidu.com/s/10BeKraY8298VT8G0at7kDg?pwd=s2ki 提取码: s2ki
+
+通过网盘分享的文件：DATASET
+链接: https://pan.baidu.com/s/14BjmzpkJREBbmaAOPyjbyg?pwd=nh3f 提取码: nh3f
 
 In our dataser, each folder is an interference data slice and contains four different signal-to-noise ratios.
 
